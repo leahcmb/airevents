@@ -21,3 +21,10 @@
     width: 300px;
   }
 }
+
+#container-menu-profiles{
+  position: center;
+  width: 200px;
+  padding: 130px;
+
+}

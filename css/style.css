@@ -17,66 +17,6 @@ a {
 	text-decoration: none;
 }
 
-.card {
-	padding: 50px;
-	display: flex;
- 	align-items: center;
- 	justify-content: space-around;
-}
-
-#text-left{
-	float: left;
-  width: 400px;
 
 
-}
 
-#pictures-right{
-	margin-left: 60%;
-	justify-content: space-between;
-}
-
-#container-menu-profile{
-	position: center;
-	width: 200px;
-	padding: 130px;
-
-}
-
-#avatar-profiles{
-	display: flex;
-
-}
-
-.Avatar-menu-circle{
-
-	width: 250px;
-	height: 250px;
-	border-radius: 50%;
-
-}
-
-.profile-bouton{ 
-
-	position:relative;
-       display:inline-block;
-       text-align:center;
-
-   }
-
-.btn-avatar{
-	position: absolute;
-	bottom: 60px;
-	right: 75px;
-	width: 100px;
-	height: 40px;
-	border-radius: 18px;
-	border-width : thin;
-	background-color: white;
-	font-size: 15px;
-	font-weight: bold;
-}
-
-.btn-avatar:hover {
-	background-color: yellow;
-}

@@ -3,3 +3,19 @@
 	height: 60px;
 	border-radius: 50%; 
 }
+
+.Avatar-menu-circle{
+
+	width: 250px;
+	height: 250px;
+	border-radius: 50%;
+
+}
+
+.avatar-menu-bouton{ 
+
+	position:relative;
+       display:inline-block;
+       text-align:center;
+
+   }
